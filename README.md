@@ -1,4 +1,4 @@
-# gnl
+# get_next_line
 42/Codam get_next_line, a modified getline function
 
 **Note**:  
